@@ -36,16 +36,3 @@
 
 ###
 
-
-
-### Featured Projects
-- **[Object Detection Application](https://github.com/jasonli96/object-detection):** A Python-based CV project using OpenCV and PyTorch.
-- **[E-Commerce Platform](https://github.com/jasonli96/ecommerce-platform):** Built with Laravel and JavaScript, featuring secure payment gateways.
-- **[Dockerized CV App](https://github.com/jasonli96/dockerized-cv-app):** Scalable computer vision app deployed with Docker and AWS.
-
-### Let's Connect
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
